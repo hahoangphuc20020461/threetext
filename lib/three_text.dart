@@ -28,6 +28,7 @@ class _ThreeTextPageState extends State<ThreeTextPage> {
             Padding(padding: EdgeInsets.only(bottom: 8)),
             Text('Data2',
             style: TextStyle(
+              color: Colors.amber,
               fontSize: 20,
               fontWeight: FontWeight.w600,
               fontFamily: 'happyswirly'
@@ -35,6 +36,7 @@ class _ThreeTextPageState extends State<ThreeTextPage> {
             Padding(padding: EdgeInsets.only(bottom: 8)),
             Text('Data3',
             style: TextStyle(
+              color: Colors.blueAccent,
               fontSize: 10,
               fontWeight: FontWeight.w300,
               fontFamily: 'atop'
